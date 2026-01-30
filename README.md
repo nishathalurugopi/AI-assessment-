@@ -26,6 +26,7 @@ Assessment/
    pip install llama-cpp-python
 
 2. Local LLM Model
+   
    The model file is **not included in this repository** due to GitHub file size limits.
    Steps:
    > Create a folder.
