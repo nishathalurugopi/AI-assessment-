@@ -57,8 +57,11 @@ The pipeline will still run without the model, but LLM enrichment will be skippe
 python run.py
 
 **Outputs**
+
 > inventory_clean.csv
+
 > anomalies.json
+
 > prompts.md
 
 
